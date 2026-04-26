@@ -1,6 +1,6 @@
 # LuckyPool
 
-An end-to-end website for running **8-ball, 9-ball, and snooker** tournaments — inspired by [digitalpool.com](https://digitalpool.com/). Think "Challonge meets Digital Pool": a platform for players, venues and tournament directors to create brackets, live-score matches, and track stats.
+An end-to-end website for running **8-ball, 9-ball, and snooker** tournaments.
 
 > **Status:** Demo / MVP. The UI is production-grade React + TypeScript + Tailwind, but all data is mocked and persisted in the browser's `localStorage`. No backend is wired up yet. See [Pending / parked](#pending--parked-items) below.
 
